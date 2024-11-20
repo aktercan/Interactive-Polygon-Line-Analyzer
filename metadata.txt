@@ -1,0 +1,10 @@
+[general]
+name=Select Area Plugin
+QgisMinimumVersion=3.0
+description= Bir alan seçin ve poligonların en yakın çizgilere bağlantılarını oluşturun.
+about=Bu eklenti, kullanıcıdan bir alan seçmesini ister ve seçilen alan içindeki poligonları en yakın çizgiye bağlar.
+version=1.0
+author=Akifcan Tercan
+email=aktercan@hotmail.com
+icon=icon.png
+category=Vector
