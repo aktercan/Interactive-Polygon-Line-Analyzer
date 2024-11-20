@@ -1,6 +1,6 @@
 # Interactive-Polygon-Line-Analyzer
 
-    This project is a QGIS plugin designed for interactive area selection, shapefile
+This project is a QGIS plugin designed for interactive area selection, shapefile
 analysis, and line addition based on polygon-line proximity. It integrates
 seamlessly with the QGIS environment, enabling efficient geospatial analysis.
 
@@ -13,7 +13,7 @@ seamlessly with the QGIS environment, enabling efficient geospatial analysis.
 
 ## Scientific Background
 
-    Spatial analysis is a fundamental part of geospatial applications, requiring
+Spatial analysis is a fundamental part of geospatial applications, requiring
 precise and efficient tools for feature interaction. This plugin leverages QGIS
 APIs to provide an interactive framework for users to define, analyze, and modify
 geospatial features dynamically. Its design ensures usability in urban planning,
